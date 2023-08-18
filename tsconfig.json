@@ -17,7 +17,7 @@
     "baseUrl": ".",
     "strict": true,
     "paths": {
-      "@sie/*": ["packages/*"]
+      "@tymona/*": ["packages/*"]
     },
     "typeRoots": ["typings", "node_modules/@types"],
     "allowSyntheticDefaultImports": true,

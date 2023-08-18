@@ -1,5 +1,5 @@
 {
-  "name": "rxjs",
+  "name": "@tymona/rxjs",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
@@ -9,5 +9,6 @@
     "build": "rollup -c"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "ac48a8e2bc6d63f11ed340d7de3172881d147b2b"
 }
