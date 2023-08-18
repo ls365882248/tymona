@@ -1,2 +1,6 @@
 .history
 node_modules
+
+/dist
+/packages/*/dist
+/packages/*/es
