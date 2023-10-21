@@ -6,7 +6,12 @@
   "module": "es/index.js",
   "type": "module",
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "test": "pnpm build && nodemon dist/index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "rxjs": "^6.6.7"
   },
   "author": "",
   "license": "ISC",
